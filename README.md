@@ -15,7 +15,7 @@ MCQs Creator is an application designed to simplify the creation of multiple-cho
 1. Click 'Browse files' to upload your source document.
 2. Adjust the number of MCQs you wish to generate using the '+' and '-' buttons.
 3. Type in the subject area of your MCQs.
-4. Select the complexity level: Simple or Hard.
+4. Select the complexity level: Simple or Medium or Hard.
 5. Click 'Create MCQs' to generate your questions.
 
 ## Screenshots
