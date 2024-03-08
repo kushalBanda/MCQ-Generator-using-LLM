@@ -40,7 +40,4 @@ streamlit run StreamlitApp.py
 Information on how others can contribute to the project (if this is an open-source project).
 
 ## License
-State the license under which this application is released.
-
-Replace `/path/to/screenshot1.png`, `/path/to/screenshot2.png`, and `/path/to/screenshot3.png` with the actual paths where you host your images. If you're using GitHub, you can upload the screenshots to your repository and use relative links to refer to them in your README.
-
+MIT License.
