@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is a key characteristic of LLMs?,a: They can only respond to predictable queries | b: They can respond to unpredictable queries | c: They have a finite set of inputs | d: They only understand programming languages,b
+How do LLMs differ from traditional computer programs in terms of query response?,a: LLMs use a finite set of buttons | b: LLMs respond to natural human language | c: Traditional programs are more reliable | d: Traditional programs can hallucinate,b
+What can happen if LLMs are fed false information?,a: They will provide accurate responses | b: They will give false information | c: They will refuse to respond | d: They will delete the data,b
+What is a security concern with user-facing applications based on LLMs?,a: They are not prone to bugs | b: They cannot be manipulated | c: They may expose confidential data | d: They are secure vaults,c
+How do LLMs use the inputs they receive from users?,a: To increase their own productivity | b: To manipulate malicious inputs | c: To further train their models | d: To create fake information,c
