@@ -19,9 +19,9 @@ MCQs Creator is an application designed to simplify the creation of multiple-cho
 5. Click 'Create MCQs' to generate your questions.
 
 ## Screenshots
-![MCQs Creator Main Interface](/path/to/screenshot1.png)
-![File Upload Interface](/path/to/screenshot2.png)
-![MCQs Preview](/path/to/screenshot3.png)
+![MCQs Creator Main Interface](https://github.com/kushalBanda/MCQ-Generator-using-LLM/blob/master/Images/1.png)
+![File Upload Interface](https://github.com/kushalBanda/MCQ-Generator-using-LLM/blob/master/Images/2.png)
+![MCQs Preview](https://github.com/kushalBanda/MCQ-Generator-using-LLM/blob/master/Images/4.png)
 
 ## Installation
 ```bash
