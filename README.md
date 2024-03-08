@@ -25,7 +25,7 @@ MCQs Creator is an application designed to simplify the creation of multiple-cho
 
 ## Installation
 ```bash
-git clone
+git clone https://github.com/kushalBanda/MCQ-Generator-using-LLM.git
 ```
 
 ## Running the Application
